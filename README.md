@@ -1,0 +1,2 @@
+# ReactiveCocoaPodspec
+Podspec for reactivecocoa
