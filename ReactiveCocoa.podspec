@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "ReactiveCocoa"
-  s.version      = "swift2"
+  s.version      = "4-beta"
   s.summary      = "A framework for composing and transforming streams of values"
 
   s.platform = :ios
